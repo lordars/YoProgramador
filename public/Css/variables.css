@@ -1,0 +1,10 @@
+:root{
+    --cor-primaria: #000000;
+    --cor-secundaria: #232D3F;
+    --cor-terciaria:#005B41;
+    --cor-hover: #232D3F;
+
+/* Fontes de texto */
+    --fonte-primaria:'Krona One', sans-serif;
+    --fonte-secundaria: "Montserrat", sans-serif;
+}
