@@ -132,7 +132,7 @@ body{
     z-index: 1000;
     left: 70rem;
     top: 10rem;
-    
+    width: 50%;
     border: 3px dotted var(--cor-terciaria);
     
 }
